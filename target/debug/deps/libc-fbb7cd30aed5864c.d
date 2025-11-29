@@ -1,0 +1,11 @@
+E:\0000000 penting\native server\Todolist II\rust_app\target\debug\deps\libc-fbb7cd30aed5864c.d: C:\Users\TOSHIBA\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.177\src\lib.rs C:\Users\TOSHIBA\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.177\src\macros.rs C:\Users\TOSHIBA\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.177\src\new\mod.rs C:\Users\TOSHIBA\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.177\src\primitives.rs C:\Users\TOSHIBA\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.177\src\windows\mod.rs C:\Users\TOSHIBA\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.177\src\windows\msvc\mod.rs C:\Users\TOSHIBA\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.177\src\types.rs
+
+E:\0000000 penting\native server\Todolist II\rust_app\target\debug\deps\liblibc-fbb7cd30aed5864c.rmeta: C:\Users\TOSHIBA\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.177\src\lib.rs C:\Users\TOSHIBA\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.177\src\macros.rs C:\Users\TOSHIBA\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.177\src\new\mod.rs C:\Users\TOSHIBA\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.177\src\primitives.rs C:\Users\TOSHIBA\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.177\src\windows\mod.rs C:\Users\TOSHIBA\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.177\src\windows\msvc\mod.rs C:\Users\TOSHIBA\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.177\src\types.rs
+
+C:\Users\TOSHIBA\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.177\src\lib.rs:
+C:\Users\TOSHIBA\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.177\src\macros.rs:
+C:\Users\TOSHIBA\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.177\src\new\mod.rs:
+C:\Users\TOSHIBA\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.177\src\primitives.rs:
+C:\Users\TOSHIBA\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.177\src\windows\mod.rs:
+C:\Users\TOSHIBA\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.177\src\windows\msvc\mod.rs:
+C:\Users\TOSHIBA\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.177\src\types.rs:
