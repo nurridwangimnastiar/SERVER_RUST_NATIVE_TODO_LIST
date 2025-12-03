@@ -17,7 +17,9 @@ pub fn parse_id(request: &str) -> i64 {
         for param in body.split('&') {
             let parts: Vec<&str> = param.split('=').collect();
             if parts.len() == 2 && parts[0] == "id" {
-                return parts[1].parse::<i64>().unwrap_or(0);
+                if let Ok(id) = parts[1].parse::<i64>() {
+                    return id;
+                }
             }
         }
     }

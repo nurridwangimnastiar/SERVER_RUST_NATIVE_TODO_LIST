@@ -1,3 +1,4 @@
+// src/db.rs
 extern crate sqlite;
 
 use sqlite::{Connection, Error};

@@ -1,5 +1,0 @@
-E:\0000000 penting\native server\Todolist II\rust_app\target\release\build\libc-60f9a638698026e5\build_script_build-60f9a638698026e5.d: C:\Users\TOSHIBA\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.177\build.rs
-
-E:\0000000 penting\native server\Todolist II\rust_app\target\release\build\libc-60f9a638698026e5\build_script_build-60f9a638698026e5.exe: C:\Users\TOSHIBA\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.177\build.rs
-
-C:\Users\TOSHIBA\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.177\build.rs:

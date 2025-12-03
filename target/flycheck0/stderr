@@ -1,1 +1,144 @@
-    Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.29s
+   0.354765500s  INFO prepare_target{force=false package_id=todo_list v0.2.0 (E:\0000000 penting\native server\Todolist II\rust_app) target="todo_list"}: cargo::core::compiler::fingerprint: fingerprint error for todo_list v0.2.0 (E:\0000000 penting\native server\Todolist II\rust_app)/Check { test: false }/TargetInner { name_inferred: true, ..: lib_target("todo_list", ["lib"], "E:\\0000000 penting\\native server\\Todolist II\\rust_app\\src\\lib.rs", Edition2021) }
+   0.385369100s  INFO prepare_target{force=false package_id=todo_list v0.2.0 (E:\0000000 penting\native server\Todolist II\rust_app) target="todo_list"}: cargo::core::compiler::fingerprint:     err: failed to read `E:\0000000 penting\native server\Todolist II\rust_app\target\debug\.fingerprint\todo_list-ce7780d554eff34f\lib-todo_list`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_libgit2_prerelease
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: git_midx_writer_dump
+  17: git_filter_source_repo
+  18: git_midx_writer_dump
+  19: BaseThreadInitThunk
+  20: RtlUserThreadStart
+   0.468698800s  INFO prepare_target{force=false package_id=sqlite v0.31.1 target="sqlite"}: cargo::core::compiler::fingerprint: fingerprint error for sqlite v0.31.1/Check { test: false }/TargetInner { name_inferred: true, ..: lib_target("sqlite", ["lib"], "C:\\Users\\TOSHIBA\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\sqlite-0.31.1\\src\\lib.rs", Edition2021) }
+   0.468919300s  INFO prepare_target{force=false package_id=sqlite v0.31.1 target="sqlite"}: cargo::core::compiler::fingerprint:     err: failed to read `E:\0000000 penting\native server\Todolist II\rust_app\target\debug\.fingerprint\sqlite-7eb865c9b933a9df\lib-sqlite`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_libgit2_prerelease
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: git_midx_writer_dump
+  18: git_filter_source_repo
+  19: git_midx_writer_dump
+  20: BaseThreadInitThunk
+  21: RtlUserThreadStart
+   0.533871000s  INFO prepare_target{force=false package_id=todo_list v0.2.0 (E:\0000000 penting\native server\Todolist II\rust_app) target="todo_list"}: cargo::core::compiler::fingerprint: fingerprint error for todo_list v0.2.0 (E:\0000000 penting\native server\Todolist II\rust_app)/Check { test: true }/TargetInner { name_inferred: true, ..: lib_target("todo_list", ["lib"], "E:\\0000000 penting\\native server\\Todolist II\\rust_app\\src\\lib.rs", Edition2021) }
+   0.534270800s  INFO prepare_target{force=false package_id=todo_list v0.2.0 (E:\0000000 penting\native server\Todolist II\rust_app) target="todo_list"}: cargo::core::compiler::fingerprint:     err: failed to read `E:\0000000 penting\native server\Todolist II\rust_app\target\debug\.fingerprint\todo_list-544b4921070f7bc5\test-lib-todo_list`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_libgit2_prerelease
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: git_midx_writer_dump
+  17: git_filter_source_repo
+  18: git_midx_writer_dump
+  19: BaseThreadInitThunk
+  20: RtlUserThreadStart
+   0.537873600s  INFO prepare_target{force=false package_id=todo_list v0.2.0 (E:\0000000 penting\native server\Todolist II\rust_app) target="todo_list"}: cargo::core::compiler::fingerprint: fingerprint error for todo_list v0.2.0 (E:\0000000 penting\native server\Todolist II\rust_app)/Check { test: false }/TargetInner { name: "todo_list", doc: true, ..: with_path("E:\\0000000 penting\\native server\\Todolist II\\rust_app\\src\\main.rs", Edition2021) }
+   0.538026800s  INFO prepare_target{force=false package_id=todo_list v0.2.0 (E:\0000000 penting\native server\Todolist II\rust_app) target="todo_list"}: cargo::core::compiler::fingerprint:     err: failed to read `E:\0000000 penting\native server\Todolist II\rust_app\target\debug\.fingerprint\todo_list-d356fef456d7f3f0\bin-todo_list`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_libgit2_prerelease
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: git_midx_writer_dump
+  17: git_filter_source_repo
+  18: git_midx_writer_dump
+  19: BaseThreadInitThunk
+  20: RtlUserThreadStart
+   0.540424200s  INFO prepare_target{force=false package_id=todo_list v0.2.0 (E:\0000000 penting\native server\Todolist II\rust_app) target="todo_list"}: cargo::core::compiler::fingerprint: fingerprint error for todo_list v0.2.0 (E:\0000000 penting\native server\Todolist II\rust_app)/Check { test: true }/TargetInner { name: "todo_list", doc: true, ..: with_path("E:\\0000000 penting\\native server\\Todolist II\\rust_app\\src\\main.rs", Edition2021) }
+   0.540539900s  INFO prepare_target{force=false package_id=todo_list v0.2.0 (E:\0000000 penting\native server\Todolist II\rust_app) target="todo_list"}: cargo::core::compiler::fingerprint:     err: failed to read `E:\0000000 penting\native server\Todolist II\rust_app\target\debug\.fingerprint\todo_list-5635bd30fb518982\test-bin-todo_list`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_libgit2_prerelease
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: git_midx_writer_dump
+  17: git_filter_source_repo
+  18: git_midx_writer_dump
+  19: BaseThreadInitThunk
+  20: RtlUserThreadStart
+    Checking sqlite v0.31.1
+    Checking todo_list v0.2.0 (E:\0000000 penting\native server\Todolist II\rust_app)
+    Finished `dev` profile [unoptimized + debuginfo] target(s) in 6.62s
